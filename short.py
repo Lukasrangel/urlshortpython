@@ -4,7 +4,7 @@ import argparse
 import requests
 
 ##constants
-API_KEY="sk_MHHnuUEd7QWqgZGR"
+API_KEY=""
 DOMAIN="fhtb.short.gy"
 API_LINK_BASE="https://api.short.io"
 
